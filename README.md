@@ -1,5 +1,7 @@
 # NTFOutroMusicReborn
 
+[![Downloads!](https://img.shields.io/github/downloads/XingYeNotFish/NTFOutroMusicReborn/total?color=brown&label=Downloads&style=for-the-badge)](https://github.com/XingYeNotFish/NTFOutroMusicReborn/releases)
+
 ## How To Use
 - Put `NTFOutroMusicReborn.dll` in EXILED\Plugins
 
